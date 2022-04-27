@@ -1,1 +1,1 @@
-scripts in the working directory
+Display contents into readme file
